@@ -29,11 +29,11 @@
 
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white(https://www.instagram.com/wallaceespy/))
 
-<<ul style="list-style-type: none;" >
+<ul style="list-style-type: none;">
     <li>🍀29 anos | Rio de Janeiro</li>
     <li>🖥️Desenvolvedor frontend</li>
-    <li>👨‍💻Academico de Análise e Desenvolvimento de Sistemas</li>
-    <li>🏋️Gosto de praticar esportes,ouvir música e amo praia!</li>
+    <li>👨‍💻Acadêmico de Análise e Desenvolvimento de Sistemas</li>
+    <li>🏋️Gosto de praticar esportes, ouvir música e amo praia!</li>
 </ul>
 
 
