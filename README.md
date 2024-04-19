@@ -7,7 +7,7 @@
     <li>👨‍💻Acadêmico de Análise e Desenvolvimento de Sistemas</li>
     <li>🏋️Gosto de praticar esportes, ouvir música e amo praia!</li>
 </ul>
-## Skills
+Skills
 
 <div style="display: Inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
