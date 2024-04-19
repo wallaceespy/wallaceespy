@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-### Olá! Eu sou o Wallace Espece 
+### Olá! Eu sou o Wallace Espece
+🍀29 anos | Rio de Janeiro
+🖥️Desenvolvedor frontend
+👨‍💻Acadêmico de Análise e Desenvolvimento de Sistemas
+🏋️Gosto de praticar esportes,ouvir música e amo praia!
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (https://) )
-
-
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/wallace-espece-26abb1273/))
-
-
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white(https://www.instagram.com/wallaceespy/))
-
-![Wallaceespy GitHub stats](https://github-readme-stats.vercel.app/api?username=wallaceespy&show_icons=true&theme=tokyonight)
-
-## Tecnologias  eu uso no meu dia a dia
+## Skills
 
 <div style="display: Inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,7 +17,17 @@
 
 </div><br/>
 
-🍀29 anos | Rio de Janeiro
-🖥️Desenvolvedor frontend
-👨‍💻Acadêmico de Análise e Desenvolvimento de Sistemas
-🏋️Gosto de praticar esportes,ouvir música e amo praia!
+![Wallaceespy GitHub stats](https://github-readme-stats.vercel.app/api?username=wallaceespy&show_icons=true&theme=tokyonight)
+
+## Entre em contato
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (https://) )
+
+
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/wallace-espece-26abb1273/))
+
+
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white(https://www.instagram.com/wallaceespy/))
+
+
+
