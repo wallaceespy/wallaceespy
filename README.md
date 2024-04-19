@@ -25,5 +25,5 @@
 
 🍀29 anos | Rio de Janeiro
 🖥️Desenvolvedor frontend
-👨‍💻Academico de Análise e Desenvolvimento de Sistemas
+👨‍💻Acadêmico de Análise e Desenvolvimento de Sistemas
 🏋️Gosto de praticar esportes,ouvir música e amo praia!
