@@ -10,7 +10,7 @@
 <p align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Lifting%20Weights.png" alt="Man Lifting Weights" width="25" height="25" />Gosto de praticar esportes, ouvir música e amo praia!</p>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />Entre em contato</h3>
-<a href="https://www.instagram.com/wallaceespy/"target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<a href="https://www.instagram.com/wespy.wallace//"target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 <a href="https://www.linkedin.com/in/wallace-espece-26abb1273/"target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
 <a href=""target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
@@ -19,7 +19,7 @@
 
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />Skills</h3>
-<img src="https://skillicons.dev/icons?i=figma,vscode,html,css,javascript,nodejs,git,github,react,mysql"/>
+<img src="https://skillicons.dev/icons?i=figma,vscode,html,css,javascript,nodejs,git,github,react,mysql,typescript,nest,insonia"/>
 
 <br clear="both" />
 
